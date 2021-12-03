@@ -1,3 +1,3 @@
 # Evermann
 
-Game Jam Final Project for C220
+48 Hour Game Jam Final Project for C220
