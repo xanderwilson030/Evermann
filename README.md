@@ -1,2 +1,3 @@
 # Evermann
-Game Jam for C220
+
+Game Jam Final Project for C220
