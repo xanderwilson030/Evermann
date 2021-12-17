@@ -7,3 +7,6 @@ A horror game for a game jam with the theme: Pick your Poison
 
 # Deathmatch
 A Star Wars arena shooter (Star Wars is owned by Lucasfilm LTD)
+
+# Burger Time
+A midterm project based off the flash game "I was hungry but there were cannons" [armorgames.com](https://armorgames.com/play/5481/i-was-hungry-but-there-were-cannons)
